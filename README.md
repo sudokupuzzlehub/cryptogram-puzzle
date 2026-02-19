@@ -168,3 +168,36 @@ This repository contains documentation and descriptive content related to the Cr
 Access the official game here:
 
 [Play Cryptogram Puzzle Online](https://sudokupuzzlehub.com/cryptogram/)
+
+
+------
+
+## Related Repositories
+
+Main platform:
+https://github.com/sudokupuzzlehub/sudokupuzzlehub
+
+Sudoku solver:
+https://github.com/sudokupuzzlehub/sudoku-solver
+
+Printable Sudoku:
+https://github.com/sudokupuzzlehub/printable-sudoku
+
+Mini Sudoku:
+https://github.com/sudokupuzzlehub/mini-sudoku
+
+Strands puzzle:
+https://github.com/sudokupuzzlehub/strands-puzzle
+
+Cryptogram puzzle:
+https://github.com/sudokupuzzlehub/cryptogram-puzzle
+
+Sudoku blog:
+https://github.com/sudokupuzzlehub/sudoku-blog
+
+
+Access the official blog here:
+
+[Sudoku Blog](https://sudokupuzzlehub.com/blog/)
+
+
